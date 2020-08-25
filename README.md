@@ -11,5 +11,5 @@ TO ADD
 
 Example
 =========================================
-![alt text](https://github.com/khabiirk/CommentThread/screenshot.png?raw=true)
+![alt text](https://github.com/khabiirk/CommentThread/backend/screenshot.png?raw=true)
 
